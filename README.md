@@ -1,4 +1,4 @@
-#  Calculadora de Antecipação
+# 🔢 Calculadora de Antecipação
 
 ### 🇧🇷 Projeto feito para simular que clientes possam saber quanto custa antecipar uma transação, e para isso, desenvolvi uma calculadora de antecipação para que os mesmos consigam saber quais valores receberão caso optem por antecipar o recebimento. 
 
